@@ -98,10 +98,10 @@ experiences:
         time: 2020-present
         company: Okinawa Institute of Science and Technology Graduate University <br> Integrative Community Ecology Unit, Okinawa, Japan
         details: |
-          Research Group: Prof. David Armitage <br>
-              - Collected 500+ _Darlingtonia californica_ plant samples, _Metriocnemus edwardsi_ 
-              larvae and _Sarraceniopus darlingtoniae_ mites from 50+ sites, extracted DNA from all samples, 
-              and sequenced ~200 plant samples (ddRADSeq) and all arthropod samples (COI amplicon). 
+          <b> Research Group :</b> Prof. David Armitage <br>
+            - Collected 500+ _Darlingtonia californica_ plant samples, _Metriocnemus edwardsi_ 
+            larvae and _Sarraceniopus darlingtoniae_ mites from 50+ sites, extracted DNA from all samples, 
+            and sequenced ~200 plant samples (ddRADSeq) and all arthropod samples (COI amplicon).               
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
@@ -111,7 +111,6 @@ experiences:
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
             - Bullet point
       - role: UI Developer
         time: 2012 - 2014
