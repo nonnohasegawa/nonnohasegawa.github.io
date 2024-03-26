@@ -40,8 +40,10 @@ sidebar:
         - idiom: Japanese
           level: Native/Bilingual
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: bash command language
+          level: 2019-present
+        - idiom: R programming language
+          level: 2018-present
 
     #interests:
       #title: Interests outside academia
@@ -94,166 +96,126 @@ education:
 experiences:
     title: Employment
     info:
-      - role: Doctoral Research Student/ JSPS DC1 Fellow
+      - role: <strong>Doctoral Research Student/ JSPS DC1 Fellow</strong>
         time: 2020-present
         company: Okinawa Institute of Science and Technology Graduate University <br> Integrative Community Ecology Unit, Okinawa, Japan
         details: |
-          <b> Research Group :</b> Prof. David Armitage <br>
+          <b>Research Group:</b> Prof. David Armitage <br>
             - Collected 500+ _Darlingtonia californica_ plant samples, _Metriocnemus edwardsi_ 
             larvae and _Sarraceniopus darlingtoniae_ mites from 50+ sites, extracted DNA from all samples, 
-            and sequenced ~200 plant samples (ddRADSeq) and all arthropod samples (COI amplicon).               
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            and sequenced ~200 plant samples (ddRADSeq) and all arthropod samples (COI amplicon).    
+            - Analyzing sequencing data for population genetics and landscape ecology. 
+            - Was invited for a poster presentation at the Tohoku University - OIST 3<sup>rd</sup> joint 
+            workshop on biodiveristy 2022. 
+      - role: <strong>Visiting Researcher</strong>
+        time: Dec 2019-Apr 2019
+        company: Okinawa Institute of Science and Technology Graduate University <br> Ecology and Evolution Unit, Okinawa, Japan
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          **Research Group:** Prof. Alexander (Sasha) Mikheyev <br>
+            - Created an RNA library of 200+ global Varroa mite collection to unravel honeybee viruses'
+            history as a biogeographical map, and found that contrary to previous reports, Deformed wing
+            virus A originates in Asia, not Europe (see Hasegawa _et al._ 2023, below). 
+            - Developed a novel method for Varroa mite storage conditions for field working and 
+            beekeeping collaborators (see Hasegawa _et al._ 2021, below). 
+            - Developed a novel method for single Varroa mite DNA & RNA extraction for next generation sequencing
+            (see Hasegawa _et al._ 2021, below).
+      - role: <strong>Laboratory Research Intern Student</strong>
+        time: Apr 2019-Aug 2019
+        company: Okinawa Institute of Science and Technology Graduate University <br> Protein Engineering Unit, Okinawa, Japan
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          **Research Group:** Prof. Paola Laurino <br>
+            - Investigated substrate promiscuities in human methionine S-adenosyl synthase using directed evolution.
+            - Optimized protocols involved in studying hMAT2A syntehsis and extraction, as  well as SAM 
+            analog feeding assays. 
+      - role: <strong>Undergraduate Thesis Student/ Laboratory Assistant</strong>
+        time: 2018, 2019 (3 separate contracts)
+        company: University of Guelph <br> Department of Molecular and Cellular biology, College of Biological Science, Guelph ON, Canada
+        details: |
+          **Research Group:** Prof. Allan Rod Merrill <br>
+            - Hired full time for 8 months under the Natural Sciences and Enginrring Research Council of Canada grant 
+            shared between Prof. Merrill and Prof. Ernesto Guzman-Novoa (School of Environmental Sciences, University of Guelph), 
+            partly working towards BSc thesis titled "Efficacy of plant tinctures against _Paenibacillus larvae_, a causative 
+            agent of American foulbrood in _Apis mellifera_". 
+            - Extended 4 months as a thesis student (unpaid), designed and conducted _in vitro_ rearing of honey bee larvae
+            to test for antimicrobial effects of natural plant tinctures against _P. larvae_. Screened >50 tinctures and 
+            found several plant derived tinctures that mitigate _P. larvae_ growth on agarose media with low minimum
+            inhibitory concentrations.
+            - Successfully met criteria, submitted thesis, and defended an oral exam for BSc thesis. 
+            - Supervised summer research student and aided in lab managaement & bee rearing as a part time 
+            lab assistant for the final 4 months of the total of 16 month period with this research group. 
+      - role: <strong>Laboratory Research Intern Student</strong>
+        time: 2017 (Jan-Apr & Aug-Dec)
+        company: University of British Columbia <br> Michael Smith Laboratories, Department of Biochemistry & Molecular Biology, Vancouver BC, Canada
+        details: |
+          **Research Group:** Prof. Leonard Foster <br>
+            - Led a side project alongside a postdoctoral-fellow on mhoney bee sample preservation methods for downstream proteomics analysis.
+            - Processed over 1200 samples (dissection, protein extraction, quantification, digestion, and methyl labelling). 
+            - Supervised and instructured summer intern students to work on above project. 
+            - Demonstrated applications of high throughput technology (mass spectrometry) at the BC tech summit 2017. 
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+ #     - title: Atom
+ #       link: "#"
+ #       tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  #    - title: Delta
+  #      link: "#"
+  #      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    intro: | 
+     Publications are available below via links, on <a href="https://scholar.google.com/citations?user=uFozLGUAAAAJ&hl=en">Google Scholar</a>, 
+     or you can <a href="nonno.hasegawa3@oist.jp">contact me</a> for a copy. 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: **<u>Hasegawa N**</>, Techer MA, Adjlane N, Al-Hissnawi MS, Antúnez K, Beaurepaire A, Christmon K, Delatte H, Dukku UH, Eliash N, El-Niweiri MAA, Esnault O, Evans JD, Haddad NJ, Locke B, Muñoz I, Noël G, Panziera D, Roberts JMK, De la Rúa P, Shebl MA, Stanimirovic Z, Rasmussen DA, Mikheyev AS. Evolutionarily diverse origins of deformed wing viruses in Western honey bees. Proc Natl Acad Sci USA (2023). 120:e2301258120. 
+        link: "https://doi.org/10.1073/pnas.2301258120"
+        
+      - title: Hellemans S, Wang M, **<u>Hasegawa N**</u>, Sobotnik J, Scheffrahn RH, Bourguignon T. Using ultraconserved elements to reconstruct the termite tree of life. Mol. Phylogenet. Evol 173 (2022). https://doi.org/10.1016/j.ympev.2022.107520.
+        link: "https://doi.org/10.1016/j.ympev.2022.107520"
+        
+      - title: **<u>Hasegawa N**</u>, Techer MA, Mikheyev AS. A toolkit for studying Varroa genomics and transcriptomics: preservation, extraction, and sequencing library preparation. BMC Genomics 22, 54 (2021). https://doi.org/10.1186/s12864-020-07363-7.
+        link: "https://doi.org/10.1186/s12864-020-07363-7"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#skills:
+#    title: Languages &amp; Skills
 
-skills:
-    title: Skills &amp; Proficiency
+#    toolset:
+#      - name: R
+#        level: 90%
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+ #     - name: Javascript & jQuery
+#        level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+#      - name: Angular
+#        level: 98%
 
-      - name: Angular
-        level: 98%
+#      - name: HTML5 & CSS
+#        level: 95%
 
-      - name: HTML5 & CSS
-        level: 95%
+#      - name: Ruby on Rails
+#        level: 85%
 
-      - name: Ruby on Rails
-        level: 85%
+#      - name: Sketch & Photoshop
+#        level: 60%
 
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+#    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
