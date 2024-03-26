@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Nonno Hasegawa
@@ -70,29 +70,23 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: PhD in Ecology and Evolution 
-        university: Okinawa Institute of Science and Technology Graduate University
+      - degree: <strong>PhD in Ecology and Evolution</strong>
+        university: Okinawa Institute of Science and Technology Graduate University <br> Integrative Community Ecology Unit, Okinawa, Japan
         time: 2019-present
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Biochemistry
-        university: University of Guelph
+          <b>Field</b>: Ecology and evolution <br>
+          <b>Proposal title</b>: "Historical biogeography and landscape genetics of obligate arthropod syjmbionts" <br>
+          <b>Advisor</b>: Prof. David Armitage
+      - degree: <strong>BSc in Biochemistry</strong> 
+        university: University of Guelph <br>  Department of Molecular and Cellular biology, College of Biological Science, Guelph ON, Canada
         time: 2015-2019
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-
+          <b>Thesis title</b>: "Efficacy of plant tinctures against _Paenibacillus larvae_, a causative agent of 
+          American foulbrood in _Apis mellifera_" <br>
+          <b>Advisor</b>: Prof. Allan Rod Merrill <br>
+          <b>Note</b>: BSc with distinction (cumulative average > 80%) & Coop. Coop program entails 16 months of 
+          full-time employment related to field of study.
+          
 experiences:
     title: Employment
     info:
@@ -128,7 +122,7 @@ experiences:
             - Optimized protocols involved in studying hMAT2A syntehsis and extraction, as  well as SAM 
             analog feeding assays. 
       - role: <strong>Undergraduate Thesis Student/ Laboratory Assistant</strong>
-        time: 2018, 2019 (3 separate contracts)
+        time: 2018, 2019 
         company: University of Guelph <br> Department of Molecular and Cellular biology, College of Biological Science, Guelph ON, Canada
         details: |
           **Research Group:** Prof. Allan Rod Merrill <br>
@@ -179,21 +173,64 @@ experiences:
   #      link: "#"
   #      tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
+fellowships:
+    title: Fellowships and Awards
+    info:
+      - role: <strong>Research Fellowship for Young Scientists, DC1 FY2023-2025 (3-year appointment)</strong>
+        company: Japan Society for the Promotion of Science
+        details: |
+            - Monthly stipend of JPY 200,000 (~1300USD as of Mar 2024).   
+            - Annual research funding of JPY 970,000 (~6600USD as of Mar 2024).
+      - role: <strong>Outstanding Student</strong>
+        company: Okinawa Institute of Science and Technology Graduate University
+        details: |
+            - Tuition waived in recognition of JSPS fellowship (JPY 540,000 annual ~3700USD as of Mar 2024).   
+      - role: <strong>Tohoku University - OIST 3<sup>rd</sup> Joint Workshop on Biodiversity: From Genes and Species to Ecosystem Services and Resilience 2022 </strong>
+        company: Okinawa Institute of Science and Technology Graduate University
+        details: |
+            - Awarded travel grant, JPY 50,000 (~340USD as of Mar 2024) for invited poster presentation.   
+
 publications:
     title: Publications
     intro: | 
      Publications are available below via links, on <a href="https://scholar.google.com/citations?user=uFozLGUAAAAJ&hl=en">Google Scholar</a>, 
-     or you can <a href="nonno.hasegawa3@oist.jp">contact me</a> for a copy. 
+     or you can <a href="mailto:nonno.hasegawa3@oist.jp">contact me</a> for a copy. 
     papers:
-      - title: "**Hasegawa N**, Techer MA, Adjlane N, Al-Hissnawi MS, Antúnez K, Beaurepaire A, Christmon K, Delatte H, Dukku UH, Eliash N, El-Niweiri MAA, Esnault O, Evans JD, Haddad NJ, Locke B, Muñoz I, Noël G, Panziera D, Roberts JMK, De la Rúa P, Shebl MA, Stanimirovic Z, Rasmussen DA, Mikheyev AS. Evolutionarily diverse origins of deformed wing viruses in Western honey bees. Proc Natl Acad Sci USA (2023). 120:e2301258120." 
+      - title: "<u>Hasegawa N</u>, Techer MA, Adjlane N, Al-Hissnawi MS, Antúnez K, Beaurepaire A, Christmon K, Delatte H, Dukku UH, Eliash N, El-Niweiri MAA, Esnault O, Evans JD, Haddad NJ, Locke B, Muñoz I, Noël G, Panziera D, Roberts JMK, De la Rúa P, Shebl MA, Stanimirovic Z, Rasmussen DA, Mikheyev AS. Evolutionarily diverse origins of deformed wing viruses in Western honey bees. Proc Natl Acad Sci USA (2023). 120:e2301258120." 
         link: "https://doi.org/10.1073/pnas.2301258120"
         
-      - title: "Hellemans S, Wang M, **Hasegawa N**, Sobotnik J, Scheffrahn RH, Bourguignon T. Using ultraconserved elements to reconstruct the termite tree of life. Mol. Phylogenet. Evol 173 (2022). https://doi.org/10.1016/j.ympev.2022.107520."
+      - title: "Hellemans S, Wang M, <u>Hasegawa N</u>, Sobotnik J, Scheffrahn RH, Bourguignon T. Using ultraconserved elements to reconstruct the termite tree of life. Mol. Phylogenet. Evol 173 (2022). https://doi.org/10.1016/j.ympev.2022.107520."
         link: "https://doi.org/10.1016/j.ympev.2022.107520"
         
-      - title: "**Hasegawa N**, Techer MA, Mikheyev AS. A toolkit for studying Varroa genomics and transcriptomics: preservation, extraction, and sequencing library preparation. BMC Genomics 22, 54 (2021). https://doi.org/10.1186/s12864-020-07363-7."
+      - title: "<u>Hasegawa N</u>, Techer MA, Mikheyev AS. A toolkit for studying Varroa genomics and transcriptomics: preservation, extraction, and sequencing library preparation. BMC Genomics 22, 54 (2021). https://doi.org/10.1186/s12864-020-07363-7."
         link: "https://doi.org/10.1186/s12864-020-07363-7"
 
+outreach:
+    title: Outreach Activities and General Seminars
+    summary: |
+      **2024-03** | Girl Scouts Beekeeping & Onna village honey coral joint meeting _facilitator_ <br>
+      **2024-02** | Oita Prefectural Association for the Promotion of Nectar and Pollen Source Plants 
+      _seminar on the evolutionary origins of Deformed wing virus_ 大分県蜜源花粉源植物振興協会講演会 <br>
+      **2024-02** | OIST Science Challenge 2024 Poster and Writing workshop _panelist_ <br>
+      **2024-02** | OIST Science Challenge 2024 Internship and PhD Information Session _panelist_ <br>
+      **2024-02** | OIST Science Challenge 2024 Final 3minute presentation _judge_ <br>
+      **2023-10** | OIST PhD Proposal exam information session _panelist_ <br>
+      **2023-10** | Odawara High School (Kanagawa, JP) _career seminar_ <br>
+      **2023-05** | American School in Japan (Tokyo, JP) _career seminar_ <br>
+      **2023-05** | Yamawaki Gakuen High School (Tokyo, JP) poster presentation _judge_ <br>
+      **2023-01** | Kyuyo High School (Okinawa, JP) poster presentation _judge_ <br>
+      **2022-12** | Yonago Higashi High School (Tottori, JP) presentation _judge & career seminar_ <br>
+      **2022-07** | The University of the Ryukyus (Okinawa, JP) _guest lecturer_ (course code 105311001, 90min session) <br>
+      **2022-01** | Apis cerana Society _seminar on current bee research_ トウヨウミツバチ協会勉強会講師 <br>
+      **2022-01 | Oita Prefecture Association for the Promotion of Nectar and Pollen Source Plants _seminar
+      on current bee research_ 大分県蜜源花粉源植物振興協会 講演会 <br>
+      **202112** | COOP & Onna Village Red Soil Runoff Prevention Measures _seminar on significance of
+      honey bees in red soil runoff prevention_ コープ・恩納村赤土等流出防止対策地域協議会 講演 <br>
+      **2021-11** | Japan Beekeeping Society _seminar on current bee research_ 日本養蜂協会 講師 <br>
+      **2021-11** | Seisen International School (Tokyo, JP) career _seminar_ <br>
+      **2021-11** | Kyuyo High School (Okinawa, JP) career _seminar_ <br>
+      **2021-10** | OIST Net Café Information Session _panelist_ <br>
+      **2021-03** | Fletchers Meadow Secondary School (ON, Canada) career _seminar_ <br>
 
 #skills:
 #    title: Languages &amp; Skills
