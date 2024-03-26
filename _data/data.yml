@@ -4,71 +4,72 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Nonno Hasegawa
+    tagline: PhD Candidate 
+    avatar: IMG_5754-sq.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: nonno.hasegawa3@oist.jp
+    phone: +81 80 4871 1644
+    timezone: Tokyo JP/ UTC+0900
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: #do not add http://
+    linkedin: nonnohasegawa
+    xing: 
+    github: nonnohasegawa
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@HasegawaNonno'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: /assets/20240315_CV_full.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
-          level: Native
+          level: Native/Bilingual
 
-        - idiom: French
-          level: Professional
+        - idiom: Japanese
+          level: Native/Bilingual
 
         - idiom: Spanish
           level: Professional
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
+    #interests:
+      #title: Interests outside academia
+      #info:
+        #- item: Weightlifting
           link:
 
-        - item: Snowboarding
+       # - item: Surfing
           link:
 
-        - item: Cooking
+       # - item: Baking
           link:
 
 career-profile:
-    title: Career Profile
+    title: Background
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am an evolutionary biologist interested in obligate arthropod symbionts. 
+      Although BSc specialized in biochemistry, as a graduate student, I am learning 
+      to approach biological questions from an ecological and evolutionary perspective, 
+      by utilizing many molecular biology methods learned as an undergraduate student, 
+      as well as expanding my skillsets in field work and computer programming to 
+      analyze hundreds of sequencing data on HPC.
+      
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: PhD in Ecology and Evolution 
+        university: Okinawa Institute of Science and Technology Graduate University
+        time: 2019-present
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
