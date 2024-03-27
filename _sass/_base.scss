@@ -19,7 +19,7 @@ h6 {
 }
 
 a {
-  color: #EA7580;
+  color: darken($theme-color, 20%);
   &:hover {
     text-decoration: underline;
     color: darken($theme-color, 20%);
