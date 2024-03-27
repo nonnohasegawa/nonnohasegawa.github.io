@@ -40,7 +40,7 @@ p {
   max-width: 1000px;
   margin: 0 auto;
   position: relative;
-  @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0.1));
+  @include box-shadow(0px 2px 4px rgba(0, 0, 0, 0));
 }
 
 .sidebar-wrapper {
@@ -54,7 +54,7 @@ p {
   .profile-container {
     padding: 30px;
     //background: darken($theme-color, 10%);
-    background: rgba(0, 0, 0, 0.05);
+    background: rgba(0, 0, 0, 0);
     text-align: center;
     color: #fff;
   }
