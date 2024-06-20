@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: nonno.hasegawa3@oist.jp
     email: nonno.hasegawa@outlook.com
-    phone: +81 80 4871 1644
+    phone: #+81 80 4871 1644
     timezone: Tokyo JP/ UTC+0900
     citizenship:
     website: #do not add http://
@@ -61,9 +61,9 @@ career-profile:
     title: Background
     summary: |
       I am an evolutionary biologist interested in obligate arthropod symbionts. 
-      Although BSc specialized in biochemistry, as a graduate student, I am learning 
+      While my BSc specialized in biochemistry, as a graduate student, I am learning 
       to approach biological questions from an ecological and evolutionary perspective, 
-      by utilizing many molecular biology methods learned as an undergraduate student, 
+      by utilizing many molecular biology methods acquired through my BSc, 
       as well as expanding my skillsets in field work and computer programming to 
       analyze hundreds of sequencing data on HPC.
       
