@@ -70,14 +70,14 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: <strong>PhD in Ecology and Evolution</strong>
+      - degree: <strong>PhD Ecology and Evolution</strong>
         university: Okinawa Institute of Science and Technology Graduate University <br> Integrative Community Ecology Unit, Okinawa, Japan
         time: 2019-present
         details: |
           <b>Field</b>: Ecology and evolution <br>
           <b>Proposal title</b>: "Historical biogeography and landscape genetics of obligate arthropod symbionts" <br>
           <b>Advisor</b>: Prof. David Armitage
-      - degree: <strong>BSc in Biochemistry</strong> 
+      - degree: <strong>BSc Biochemistry</strong> 
         university: University of Guelph <br>  Department of Molecular and Cellular biology, College of Biological Science, Guelph ON, Canada
         time: 2015-2019
         details: |
@@ -206,6 +206,15 @@ publications:
       - title: "<u>Hasegawa N</u>, Techer MA, Mikheyev AS. A toolkit for studying Varroa genomics and transcriptomics: preservation, extraction, and sequencing library preparation. BMC Genomics 22, 54 (2021). https://doi.org/10.1186/s12864-020-07363-7."
         link: "https://doi.org/10.1186/s12864-020-07363-7"
 
+
+publications:
+    title: Conferences
+    intro: 
+    papers:
+      - title: "Using Landscape Genetics to Understand the Maintenance of a Symbiotic Metacommunity. <u>Hasegawa, N.</u>, Armitage, D.W. <br>Ecological Society of America 2024 Annual Meeting" 
+        
+      - title: "Using Landscape Genetics to Understand the Maintenance of a Symbiotic Metacommunity. <u>Hasegawa, N.</u>, Armitage, D.W. <br>71st Annual Meeting of the Ecological Society of Japan"
+
 outreach:
     title: Outreach Activities
     summary: |
@@ -229,7 +238,7 @@ outreach:
       **2022-01** | Apis cerana Society _seminar on current bee research_ **_invited speaker_** トウヨウミツバチ協会勉強会講師 <br>
       **2022-01** | Oita Prefecture Association for the Promotion of Nectar and Pollen Source Plants _seminar
       on current bee research_  **_invited speaker_** 大分県蜜源花粉源植物振興協会 講演会 <br>
-      **202112** | COOP & Onna Village Red Soil Runoff Prevention Measures _seminar on significance of
+      **2021-12** | COOP & Onna Village Red Soil Runoff Prevention Measures _seminar on significance of
       honey bees in red soil runoff prevention_  **_invited speaker_** コープ・恩納村赤土等流出防止対策地域協議会 講演 <br>
       **2021-11** | Japan Beekeeping Society _seminar on current bee research_  **_invited speaker_** 日本養蜂協会 講師 <br>
       **2021-11** | Seisen International School (Tokyo, JP) career seminar **_invited speaker_** <br>
