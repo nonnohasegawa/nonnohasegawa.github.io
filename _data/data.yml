@@ -44,6 +44,8 @@ sidebar:
           level: 2019-present
         - idiom: R programming language
           level: 2018-present
+        - idiom: python programming language
+          level: 2023-present
 
     #interests:
       #title: Interests outside academia
@@ -75,7 +77,7 @@ education:
         time: 2019-present
         details: |
           <b>Field</b>: Ecology and evolution <br>
-          <b>Proposal title</b>: "Historical biogeography and landscape genetics of obligate arthropod symbionts" <br>
+          <b>Proposal title</b>: "Spatial population genetics of tripartite arthropod symbioses" <br>
           <b>Advisor</b>: Prof. David Armitage
       - degree: <strong>BSc Biochemistry</strong> 
         university: University of Guelph <br>  Department of Molecular and Cellular biology, College of Biological Science, Guelph ON, Canada
