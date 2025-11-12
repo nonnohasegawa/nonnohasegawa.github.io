@@ -9,11 +9,10 @@ sidebar:
 
     # Profile information
     name: Nonno Hasegawa
-    tagline: PhD Candidate 
+    tagline: Life Sciences Specialist @ L.E.K. Consulting | PhD in Evolutionary Biology 
     avatar: leica_NH.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: nonno.hasegawa3@oist.jp
     email: nonno.hasegawa@outlook.com
     phone: #+81 80 4871 1644
     timezone: Tokyo JP/ UTC+0900
@@ -62,19 +61,19 @@ sidebar:
 career-profile:
     title: Background
     summary: |
-      I am an evolutionary biologist interested in obligate arthropod symbionts. 
-      From being a biochemist, I turned to eco-evo as a graduate student. I am currently learning 
-      to approach biological questions from an ecological and evolutionary perspective, 
-      by utilizing many molecular biology methods acquired through my BSc, 
-      as well as expanding my skillsets in field work and computer programming to 
-      analyze hundreds of sequencing data on HPC.
+      I’m an evolutionary biologist turned life sciences strategist. 
+      During my PhD I studied obligate arthropod symbionts through an 
+      eco-evolutionary lens, combining a molecular biology toolkit with 
+      field work and large-scale sequencing analyses on HPC clusters. 
+      Today at L.E.K. Consulting, I translate complex disease/market 
+      landscape into clear, actionable insights. 
       
 education:
     title: Education
     info:
       - degree: <strong>PhD Ecology and Evolution</strong>
         university: Okinawa Institute of Science and Technology Graduate University <br> Integrative Community Ecology Unit, Okinawa, Japan
-        time: 2019-present
+        time: 2020-2025
         details: |
           <b>Field</b>: Ecology and evolution <br>
           <b>Proposal title</b>: "Spatial population genetics of tripartite arthropod symbioses" <br>
@@ -92,15 +91,18 @@ education:
 experiences:
     title: Employment
     info:
+      - role: <strong>Life Sciences Specialist</strong>
+        time: 2025-present
+        company: L.E.K. Consulting
       - role: <strong>Doctoral Research Student/ JSPS DC1 Fellow</strong>
-        time: 2020-present
+        time: 2020-2025
         company: Okinawa Institute of Science and Technology Graduate University <br> Integrative Community Ecology Unit, Okinawa, Japan
         details: |
           <b>Research Group:</b> Prof. David Armitage <br>
             - Collected 500+ _Darlingtonia californica_ plant samples, _Metriocnemus edwardsi_ 
             larvae and _Sarraceniopus darlingtoniae_ mites from 50+ sites, extracted DNA from all samples, 
             and sequenced ~200 plant samples (ddRADSeq) and all arthropod samples (COI amplicon).    
-            - Analyzing sequencing data for population genetics and landscape ecology. 
+            - Analyzed sequencing data for population genetics and landscape ecology. 
             - Was invited for a poster presentation at the Tohoku University - OIST 3<sup>rd</sup> joint 
             workshop on biodiveristy 2022. 
       - role: <strong>Visiting Researcher</strong>
